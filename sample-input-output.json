@@ -1,0 +1,12 @@
+{
+  "input": {
+    "food": 5000,
+    "travel": 2000,
+    "shopping": 3000
+  },
+  "output": {
+    "insight": "You are overspending on food",
+    "suggestion": "Reduce food expenses by 20%",
+    "score": "6/10"
+  }
+}
