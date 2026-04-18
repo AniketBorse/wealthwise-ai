@@ -20,3 +20,9 @@ Rules:
 Advanced:
 - Suggest budget improvements
 - Predict future overspending
+
+Act as a financial advisor and provide 3 personalized tips based on the user's spending habits.
+
+Also:
+- Suggest a monthly budget plan
+- Warn about future overspending risks
